@@ -1,4 +1,4 @@
-package com.precious.star.web.web;
+package com.precious.star.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

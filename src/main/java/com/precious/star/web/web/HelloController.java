@@ -1,4 +1,4 @@
-package com.precious.star.web;
+package com.precious.star.web.web;
 
 import com.precious.star.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;

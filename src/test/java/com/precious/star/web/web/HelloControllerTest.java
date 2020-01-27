@@ -1,4 +1,4 @@
-package com.precious.star.web;
+package com.precious.star.web.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
